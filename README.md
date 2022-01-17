@@ -12,7 +12,7 @@ Made for Ice Station Z 3DS, and with help from other Ice Station Z Hackers.
 - Useless Codes
 - Useful Codes
 - Over 75+ cheats
-- Holy Shit This is 40KB?
+- Holy Shit This is 37KB?
 
 # What can't this do?
 - Blow up North Korea
