@@ -22,8 +22,8 @@ Made for Ice Station Z 3DS, and with help from other Ice Station Z Hackers.
 
 # Supported Regions?
 - North & South America ---- (0004000000190300) *United States, Canada, Columbia, Venezuela, Etc.*
-- European Countries ------- (0004000000199700) *United Kingdom, Germany, Finland, France, Spain, Etc.*
-- Asian Countries ---------- (00040000001BEA00) *Japan, China, North & South Korea, Taiwan, Etc.*
+- European Countries -------- (0004000000199700) *United Kingdom, Germany, Finland, France, Spain, Etc.*
+- Asian Countries ------------ (00040000001BEA00) *Japan, China, North & South Korea, Taiwan, Etc.*
 
 # Credits
 - Cracko298
