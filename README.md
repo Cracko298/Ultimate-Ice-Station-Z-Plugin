@@ -1,4 +1,4 @@
-# Ultimate-ISZ-Plugin-Cracko298
+# Ultimate-Ice-Station-Z-Plugin
 Become the Ultimate Ice Station Z Hacker with these codes. 
 
 Made for Ice Station Z 3DS, and with help from other Ice Station Z Hackers. 
