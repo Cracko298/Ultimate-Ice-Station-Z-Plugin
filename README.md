@@ -11,3 +11,15 @@ Made for Ice Station Z 3DS, and with help from other Ice Station Z Hackers. This
 - Useful Codes
 - Over 75+ cheats
 - Holy Shit This is 40KB?
+
+# What can't this do?
+- Blow up North Korea
+- Fight John Cena
+- Become the United States President
+- Date people on Ice Station Z
+
+# Credits
+- Cracko298
+- SpringJeep
+- Noxii
+- Gage.C
