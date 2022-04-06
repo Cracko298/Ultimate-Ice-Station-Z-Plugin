@@ -4,7 +4,7 @@ Become the Ultimate Ice Station Z Hacker with these codes.
 Made for Ice Station Z 3DS, and with help from other Ice Station Z Hackers. 
 - This is one of the best Action Replay Codes available ever.
 - ONLY THE LATEST VERSION OF [CTRPF (0.7.2)](https://github.com/Cracko298/Ultimate-Ice-Station-Z-Plugin/blob/main/CTRPF%20(0.7.2).3gx?raw=true) IS SUPPORTED!
-- Original Codes Found Here: https://cactusman298.itch.io/cracktus-heinkel-ice-station-z-12-updated-plugin
+- Original Codes Found [Here (OUTDATED)](https://cactusman298.itch.io/cracktus-heinkel-ice-station-z-12-updated-plugin)
 
 # Features:
 - Hacks
