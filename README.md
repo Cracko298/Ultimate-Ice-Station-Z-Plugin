@@ -3,6 +3,7 @@ Become the Ultimate Ice Station Z Hacker with these codes.
 
 Made for Ice Station Z 3DS, and with help from other Ice Station Z Hackers. 
 - This is one of the best Action Replay Codes available ever.
+- THESE DO NOT WORK ON THE LUMA3DS CHEATS MENU. (ONLY THE LATEST VERSION OF [CTRPF (0.7.2)]
 - Original Codes Found Here: https://cactusman298.itch.io/cracktus-heinkel-ice-station-z-12-updated-plugin
 
 # Features:
