@@ -7,13 +7,15 @@ Made for Ice Station Z 3DS, and with help from other Ice Station Z Hackers.
 - Original Codes Found [Here (OUTDATED)](https://cactusman298.itch.io/cracktus-heinkel-ice-station-z-12-updated-plugin)
 
 # Features:
-- Hacks
-- More Hacks
-- Cool Test Codes
-- Useless Codes
-- Useful Codes
-- Over 75+ cheats
-- Holy Shit This is 37KB?
+- Generator Codes. Generate Messages, ID's, Names, & More.
+- Status Codes Never Seen Before.
+- Advanced Movement, Weapon, and Texting Codes.
+- Codes That Disable Core Functions of The Game.
+- The BEST Mini-Game Codes ever Made on Ice Station Z.
+- Custom UI Colours.
+- Custom Multiplayer Images.
+- Data-Corruption Code?
+- VERY Advanced Aimbot.
 
 # What can't this do?
 - Blow up North Korea
@@ -30,4 +32,4 @@ Made for Ice Station Z 3DS, and with help from other Ice Station Z Hackers.
 - Cracko298
 - SpringJeep
 - Noxii
-- Gage.C
+- Gage.C~NC
