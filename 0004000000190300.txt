@@ -2,6 +2,12 @@
 
 [++Disable Codes++]
 
+[Hell 2.0]
+D3000000 08000000
+208067C6 0000005F
+D2000000 00000000
+{Meh, Just Enable It And See What Happens.}
+
 [1. Disable The Touch Screen]
 D3000000 08000000
 2080648C 0000005F
