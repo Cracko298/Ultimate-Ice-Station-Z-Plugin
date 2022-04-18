@@ -1,7 +1,7 @@
 # Ultimate-Ice-Station-Z-Plugin
 Become the Ultimate Ice Station Z Hacker with these codes. 
 
-# Development has haulted, Thanks to everyone who stole this repo's code without proper credit to the Creators.
+# Development has halted, Thanks to everyone who stole this repo's code without proper credit to the Creators.
 
 - ONLY THE LATEST VERSION OF [CTRPF (0.7.2)](https://github.com/Cracko298/Ultimate-Ice-Station-Z-Plugin/blob/main/CTRPF%20(0.7.2).3gx?raw=true) IS SUPPORTED!
 - I'll re-release the plugin without game-breaking cheats soon.
