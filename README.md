@@ -3,7 +3,7 @@ Become the Ultimate Ice Station Z Hacker with these codes.
 - Download [Here](https://github.com/Cracko298/Ultimate-Ice-Station-Z-Plugin/releases)
 
 # NTR-CFW Release?
-- This version is no Longer Avaliable.
+- This version is no Longer going to be updated.
 
 # Supported Regions?
 - North & South America ---- (0004000000190300) *United States, Canada, Columbia, Venezuela, Etc.*
