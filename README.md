@@ -1,6 +1,6 @@
 # Ultimate-Ice-Station-Z-Plugin
 Become the Ultimate Ice Station Z Hacker with these codes.
-- Download [Here[(https://github.com/Cracko298/Ultimate-Ice-Station-Z-Plugin/releases)
+- Download [Here](https://github.com/Cracko298/Ultimate-Ice-Station-Z-Plugin/releases)
 
 # NTR-CFW Release?
 - This version is no Longer Avaliable.
